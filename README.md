@@ -3,7 +3,7 @@ Final Versions for deployment
 
  1. A multi-user program that allow insurance bills easily & accurately processed and stored into Access database
  > 
- 2. Client required custom Health Maintenance Organisation form embedded to the program, ensuring all claiming processes are captured
+ 2. Client required custom Health Maintenance Organisation form embedded to the program,  ensuring all insurance bills (claims) details are accurately captured.
  > 
  3. All HMO Encounter forms will be autofilled by the initial details provided by user
  > 
