@@ -5,7 +5,7 @@ Final Versions for deployment
  > 
  2. Client required custom Health Maintenance Organisation form embedded to the program,  ensuring all insurance bills (claims) details are accurately captured.
  > 
- 3. All HMO Encounter forms will be autofilled by the initial details provided by user
+ 3. All HMO Encounter forms will be autofilled by the initial details provided by user for cross-checking
  > 
  4. Analysis, Dashboard and Reporting system to enable Monthly/Annual Insurance activity reporting system
  > 
